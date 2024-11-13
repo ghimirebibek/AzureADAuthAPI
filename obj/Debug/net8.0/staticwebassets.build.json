@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jtdTZKpktYXQajSGMlWsKp0M2GTItxtG9LvGlDXeNc4=",
+  "Source": "AzureADAuthApi",
+  "BasePath": "_content/AzureADAuthApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
